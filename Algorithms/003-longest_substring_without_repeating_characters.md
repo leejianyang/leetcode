@@ -27,7 +27,7 @@ Example 3:
 >             Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
 
 ## 我的首个 AC
-```pyhon
+```python
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
         """
