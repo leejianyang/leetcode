@@ -62,3 +62,36 @@ class Solution(object):
         for letter in self.getLetterByDigit(current_digit):
             yield prefix + letter
 ```
+
+## 别人给出来的更优解法
+```python
+class Solution(object):
+    def letterCombinations(self, digits):
+        '''
+        :type digits: str
+        :rtype: List[str]
+        '''
+        phone = {'2': ['a', 'b', 'c'],
+                 '3': ['d', 'e', 'f'],
+                 '4': ['g', 'h', 'i'],
+                 '5': ['j', 'k', 'l'],
+                 '6': ['m', 'n', 'o'],
+                 '7': ['p', 'q', 'r', 's'],
+                 '8': ['t', 'u', 'v'],
+                 '9': ['w', 'x', 'y', 'z']}    
+        result = []
+        
+        def helpCombine(current, leftoverDigits):
+            if not leftoverDigits:
+                result.append(current)
+                return 
+            else:
+                for char in phone[leftoverDigits[0]]:
+                    helpCombine(current + char, leftoverDigits[1:])
+        
+        if not digits:
+            return []
+        else: 
+            helpCombine("", digits)
+            return result
+```
