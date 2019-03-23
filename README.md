@@ -4,8 +4,8 @@
 
 ### 数组
 - [01 - Two Sum](https://github.com/leejianyang/leetcode/blob/master/Algorithms/001-two_sum.md)
+- [41 - First Missing Positive ](https://github.com/leejianyang/leetcode/blob/master/Algorithms/041-first_missing_positive.md)
 - [88 - Merge Sorted Array](https://github.com/leejianyang/leetcode/blob/master/Algorithms/088-merge_sorted_array.md)
-- [747 - Largest Number At Least Twice of Others](https://github.com/leejianyang/leetcode/blob/master/Algorithms/747-largest_number_at_least_twice_of_others.md)
 
 ### 哈希表
 - [01 - Two Sum](https://github.com/leejianyang/leetcode/blob/master/Algorithms/001-two_sum.md)
