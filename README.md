@@ -14,6 +14,7 @@
 ### 链表
 - [02 - Add Two Numbers](https://github.com/leejianyang/leetcode/blob/master/Algorithms/002-add_two_numbers.md)
 - [19 - Remove Nth Node From End of List](https://github.com/leejianyang/leetcode/blob/master/Algorithms/019-remove_nth_node_from_end_of_list.md)
+- [24 - Swap Nodes in Pairs](https://github.com/leejianyang/leetcode/blob/master/Algorithms/024-swap_nodes_in_pairs.md)
 
 ### Two Points
 - [03 - Longest Substring Without Repeating Characters](https://github.com/leejianyang/leetcode/blob/master/Algorithms/003-longest_substring_without_repeating_characters.md)
