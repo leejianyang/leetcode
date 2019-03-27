@@ -17,6 +17,9 @@
 - [24 - Swap Nodes in Pairs](https://github.com/leejianyang/leetcode/blob/master/Algorithms/024-swap_nodes_in_pairs.md)
 - [82 - Remove Duplicates from Sorted List II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/082-remove_duplicates_from_sorted_list_II.md)
 
+### 栈
+- [20 - Valid Parentheses](https://github.com/leejianyang/leetcode/blob/master/Algorithms/020-valid_parentheses.md)
+
 ### Two Points
 - [03 - Longest Substring Without Repeating Characters](https://github.com/leejianyang/leetcode/blob/master/Algorithms/003-longest_substring_without_repeating_characters.md)
 - [19 - Remove Nth Node From End of List](https://github.com/leejianyang/leetcode/blob/master/Algorithms/019-remove_nth_node_from_end_of_list.md)
