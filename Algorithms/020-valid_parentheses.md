@@ -69,10 +69,10 @@ class Solution(object):
                 if item == ')':
                     if top != '(':
                         return False
-                if item == '}':
+                elif item == '}':
                     if top != '{':
                         return False
-                if item == ']':
+                elif item == ']':
                     if top != '[':
                         return False
         
