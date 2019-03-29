@@ -40,7 +40,7 @@
 ### 滑动窗口
 - [03 - Longest Substring Without Repeating Characters](https://github.com/leejianyang/leetcode/blob/master/Algorithms/003-longest_substring_without_repeating_characters.md)
 
-## 递归
+### 递归
 - [687 - Longest Univalue Path](https://github.com/leejianyang/leetcode/blob/master/Algorithms/687-longest_univalue_path.md)
 
 ### 回溯
