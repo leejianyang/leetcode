@@ -78,3 +78,30 @@ class Solution {
     }
 }
 ```
+
+### 选择排序的解法
+```php
+class Solution {
+
+    /**
+     * @param Integer[] $nums
+     * @return NULL
+     */
+    function sortColors(&$nums) {
+        $length = count($nums);
+        
+        for ($i = 0; $i < $length-1; $i++) {
+            $minimumIndex = $i;
+            for ($j = $i; $j < $length; $j++) {
+                if ($nums[$j] < $nums[$minimumIndex]) {
+                    $minimumIndex = $j;
+                }
+            }
+            
+            $tmp = $nums[$minimumIndex];
+            $nums[$minimumIndex] = $nums[$i];
+            $nums[$i] = $tmp;
+        }
+    }
+}
+```
