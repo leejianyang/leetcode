@@ -17,6 +17,7 @@
 - [19 - Remove Nth Node From End of List](https://github.com/leejianyang/leetcode/blob/master/Algorithms/019-remove_nth_node_from_end_of_list.md)
 - [24 - Swap Nodes in Pairs](https://github.com/leejianyang/leetcode/blob/master/Algorithms/024-swap_nodes_in_pairs.md)
 - [82 - Remove Duplicates from Sorted List II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/082-remove_duplicates_from_sorted_list_II.md)
+- [148 - Sort List](https://github.com/leejianyang/leetcode/blob/master/Algorithms/148-sort_list.md)
 
 ### 栈
 - [20 - Valid Parentheses](https://github.com/leejianyang/leetcode/blob/master/Algorithms/020-valid_parentheses.md)
@@ -52,6 +53,7 @@
 
 ### 排序
 - [75 - Sort Colors](https://github.com/leejianyang/leetcode/blob/master/Algorithms/075-sort_colors.md)
+- [148 - Sort List](https://github.com/leejianyang/leetcode/blob/master/Algorithms/148-sort_list.md)
 
 ### 数学
 - [02 - Add Two Numbers](https://github.com/leejianyang/leetcode/blob/master/Algorithms/002-add_two_numbers.md)
