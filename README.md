@@ -36,6 +36,7 @@
 - [20 - Valid Parentheses](https://github.com/leejianyang/leetcode/blob/master/Algorithms/020-valid_parentheses.md)
 
 ### 树
+- [230 - Kth Smallest Element in a BST](https://github.com/leejianyang/leetcode/blob/master/Algorithms/230-kth_smallest_element_in_a_bst.md)
 - [687 - Longest Univalue Path](https://github.com/leejianyang/leetcode/blob/master/Algorithms/687-longest_univalue_path.md)
 
 -----
@@ -64,6 +65,9 @@
 - [148 - Sort List](https://github.com/leejianyang/leetcode/blob/master/Algorithms/148-sort_list.md)
 - [179 - Largest Number](https://github.com/leejianyang/leetcode/blob/master/Algorithms/179-largest_number.md)
 - [922 - Sort Array By Parity II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/922-sort_array_by_parity_II.md)
+
+### 二分查找
+- [230 - Kth Smallest Element in a BST](https://github.com/leejianyang/leetcode/blob/master/Algorithms/230-kth_smallest_element_in_a_bst.md)
 
 ### 数学
 - [02 - Add Two Numbers](https://github.com/leejianyang/leetcode/blob/master/Algorithms/002-add_two_numbers.md)
