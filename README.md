@@ -39,6 +39,10 @@
 - [230 - Kth Smallest Element in a BST](https://github.com/leejianyang/leetcode/blob/master/Algorithms/230-kth_smallest_element_in_a_bst.md)
 - [687 - Longest Univalue Path](https://github.com/leejianyang/leetcode/blob/master/Algorithms/687-longest_univalue_path.md)
 
+### Trie
+- [212 - World Search II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/212-world_search_ii.md)
+- [692 -  Top K Frequent Words](https://github.com/leejianyang/leetcode/blob/master/Algorithms/692-top_k_frequent_words.md)
+
 -----
 
 ### Two Points
@@ -56,6 +60,7 @@
 
 ### 回溯
 - [15 - Letter Combinations of a Phone Number](https://github.com/leejianyang/leetcode/blob/master/Algorithms/017-letter_combinations_of_a_phone_number.md)
+- [212- World Search II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/212-world_search_ii.md)
 
 ### 动态规划
 - [70 - Climbing Stairs](https://github.com/leejianyang/leetcode/blob/master/Algorithms/070-climbing_stairs.md)
@@ -64,6 +69,7 @@
 - [75 - Sort Colors](https://github.com/leejianyang/leetcode/blob/master/Algorithms/075-sort_colors.md)
 - [148 - Sort List](https://github.com/leejianyang/leetcode/blob/master/Algorithms/148-sort_list.md)
 - [179 - Largest Number](https://github.com/leejianyang/leetcode/blob/master/Algorithms/179-largest_number.md)
+- [692 -  Top K Frequent Words](https://github.com/leejianyang/leetcode/blob/master/Algorithms/692-top_k_frequent_words.md)
 - [922 - Sort Array By Parity II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/922-sort_array_by_parity_II.md)
 
 ### 二分查找
