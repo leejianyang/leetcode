@@ -36,13 +36,15 @@
 - [20 - Valid Parentheses](https://github.com/leejianyang/leetcode/blob/master/Algorithms/020-valid_parentheses.md)
 
 ### 树
-- [230 - Kth Smallest Element in a BST](https://github.com/leejianyang/leetcode/blob/master/Algorithms/230-kth_smallest_element_in_a_bst.md)
 - [687 - Longest Univalue Path](https://github.com/leejianyang/leetcode/blob/master/Algorithms/687-longest_univalue_path.md)
 
 ### Trie
 - [212 - World Search II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/212-world_search_ii.md)
 - [692 -  Top K Frequent Words](https://github.com/leejianyang/leetcode/blob/master/Algorithms/692-top_k_frequent_words.md)
 
+### BST
+- [230 - Kth Smallest Element in a BST](https://github.com/leejianyang/leetcode/blob/master/Algorithms/230-kth_smallest_element_in_a_bst.md)
+- [315 -  Count of Smaller Numbers After Self](https://github.com/leejianyang/leetcode/blob/master/Algorithms/315-count_of_smaller_numbers_after_self.md)
 -----
 
 ### Two Points
