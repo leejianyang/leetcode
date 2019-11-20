@@ -84,7 +84,7 @@ class Solution(object):
             return -1
 ```
 
-## 更有解法
+## 更优解法
 讨论区里面看到一个非常精炼的解法：
 ```
 def findJudge(self, N, trust):
