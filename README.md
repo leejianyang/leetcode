@@ -45,6 +45,9 @@
 ### BST
 - [230 - Kth Smallest Element in a BST](https://github.com/leejianyang/leetcode/blob/master/Algorithms/230-kth_smallest_element_in_a_bst.md)
 - [315 -  Count of Smaller Numbers After Self](https://github.com/leejianyang/leetcode/blob/master/Algorithms/315-count_of_smaller_numbers_after_self.md)
+
+### 图
+- [997 - Find the Town Judge](https://github.com/leejianyang/leetcode/blob/master/Algorithms/997-find_the_town_judge.md)
 -----
 
 ### Two Points
