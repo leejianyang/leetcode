@@ -90,3 +90,6 @@
 
 ### 广度优先搜索
 - [785 - Is Graph Bipartite?](https://github.com/leejianyang/leetcode/blob/master/Algorithms/785-is_graph_bipartite.md)
+
+### 贪心算法
+- [1094 - Car Pooling](https://github.com/leejianyang/leetcode/blob/master/Algorithms/1094-car_pooling.md)
