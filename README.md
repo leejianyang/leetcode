@@ -47,6 +47,7 @@
 - [315 -  Count of Smaller Numbers After Self](https://github.com/leejianyang/leetcode/blob/master/Algorithms/315-count_of_smaller_numbers_after_self.md)
 
 ### 图
+- [785 - Is Graph Bipartite?](https://github.com/leejianyang/leetcode/blob/master/Algorithms/785-is_graph_bipartite.md)
 - [997 - Find the Town Judge](https://github.com/leejianyang/leetcode/blob/master/Algorithms/997-find_the_town_judge.md)
 -----
 
@@ -83,3 +84,9 @@
 ### 数学
 - [02 - Add Two Numbers](https://github.com/leejianyang/leetcode/blob/master/Algorithms/002-add_two_numbers.md)
 - [09 - Palindrome Number](https://github.com/leejianyang/leetcode/blob/master/Algorithms/009-palindrome_number.md)
+
+### 深度优先搜索
+- [785 - Is Graph Bipartite?](https://github.com/leejianyang/leetcode/blob/master/Algorithms/785-is_graph_bipartite.md)
+
+### 广度优先搜索
+- [785 - Is Graph Bipartite?](https://github.com/leejianyang/leetcode/blob/master/Algorithms/785-is_graph_bipartite.md)
