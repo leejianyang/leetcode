@@ -93,3 +93,6 @@
 
 ### 贪心算法
 - [1094 - Car Pooling](https://github.com/leejianyang/leetcode/blob/master/Algorithms/1094-car_pooling.md)
+
+### 分治算法
+- [241 - Different Ways to Add Parentheses](https://github.com/leejianyang/leetcode/blob/master/Algorithms/241-different_ways_to_add_parentheses.md)
