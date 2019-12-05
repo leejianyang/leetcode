@@ -47,6 +47,7 @@
 - [315 -  Count of Smaller Numbers After Self](https://github.com/leejianyang/leetcode/blob/master/Algorithms/315-count_of_smaller_numbers_after_self.md)
 
 ### 图
+- [207 - Course Schedule](https://github.com/leejianyang/leetcode/blob/master/Algorithms/207-course_schedule.md)
 - [785 - Is Graph Bipartite?](https://github.com/leejianyang/leetcode/blob/master/Algorithms/785-is_graph_bipartite.md)
 - [997 - Find the Town Judge](https://github.com/leejianyang/leetcode/blob/master/Algorithms/997-find_the_town_judge.md)
 -----
@@ -79,6 +80,9 @@
 - [692 -  Top K Frequent Words](https://github.com/leejianyang/leetcode/blob/master/Algorithms/692-top_k_frequent_words.md)
 - [922 - Sort Array By Parity II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/922-sort_array_by_parity_II.md)
 
+### 拓扑排序
+- [207 - Course Schedule](https://github.com/leejianyang/leetcode/blob/master/Algorithms/207-course_schedule.md)
+
 ### 二分查找
 - [230 - Kth Smallest Element in a BST](https://github.com/leejianyang/leetcode/blob/master/Algorithms/230-kth_smallest_element_in_a_bst.md)
 
@@ -87,6 +91,7 @@
 - [09 - Palindrome Number](https://github.com/leejianyang/leetcode/blob/master/Algorithms/009-palindrome_number.md)
 
 ### 深度优先搜索
+- [207 - Course Schedule](https://github.com/leejianyang/leetcode/blob/master/Algorithms/207-course_schedule.md)
 - [785 - Is Graph Bipartite?](https://github.com/leejianyang/leetcode/blob/master/Algorithms/785-is_graph_bipartite.md)
 
 ### 广度优先搜索
