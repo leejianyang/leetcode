@@ -88,7 +88,7 @@ class Solution(object):
         for course, pre_course in prerequisites:
             graph[course].add(pre_course)
 
-				# course_taken 里面的课程已经满足所有前置条件，可以进行选修
+        # course_taken 里面的课程已经满足所有前置条件，可以进行选修
         course_taken = set()
         pending_course = set()
         for course_num in xrange(numCourses):
