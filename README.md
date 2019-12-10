@@ -19,6 +19,7 @@
 - [24 - Swap Nodes in Pairs](https://github.com/leejianyang/leetcode/blob/master/Algorithms/024-swap_nodes_in_pairs.md)
 - [25 - Reverse Nodes in k-Group](https://github.com/leejianyang/leetcode/blob/master/Algorithms/025-reverse_nodes_in_k_group.md)
 - [82 - Remove Duplicates from Sorted List II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/082-remove_duplicates_from_sorted_list_II.md)
+- [143 - Reorder List](https://github.com/leejianyang/leetcode/blob/master/Algorithms/143-reorder_list.md)
 - [148 - Sort List](https://github.com/leejianyang/leetcode/blob/master/Algorithms/148-sort_list.md)
 
 ### 栈
