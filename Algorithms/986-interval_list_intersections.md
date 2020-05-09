@@ -1,7 +1,7 @@
 # 986. Interval List Intersections
 
-完成时间：2020-05-09
-原题地址：https://leetcode.com/problems/interval-list-intersections/
+- 完成时间：2020-05-09
+- 原题地址：https://leetcode.com/problems/interval-list-intersections/
 
 ## 题目描述
 Given two lists of closed intervals, each list of intervals is pairwise disjoint and in sorted order.
