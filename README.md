@@ -7,6 +7,7 @@
 - [41 - First Missing Positive ](https://github.com/leejianyang/leetcode/blob/master/Algorithms/041-first_missing_positive.md)
 - [75 - Sort Colors](https://github.com/leejianyang/leetcode/blob/master/Algorithms/075-sort_colors.md)
 - [88 - Merge Sorted Array](https://github.com/leejianyang/leetcode/blob/master/Algorithms/088-merge_sorted_array.md)
+- [283 - Move Zeros](https://github.com/leejianyang/leetcode/blob/master/Algorithms/283-move_zeros.md)
 - [922 - Sort Array By Parity II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/922-sort_array_by_parity_II.md)
 
 ### 哈希表
@@ -58,6 +59,7 @@
 - [19 - Remove Nth Node From End of List](https://github.com/leejianyang/leetcode/blob/master/Algorithms/019-remove_nth_node_from_end_of_list.md)
 - [75 - Sort Colors](https://github.com/leejianyang/leetcode/blob/master/Algorithms/075-sort_colors.md)
 - [88 - Merge Sorted Array](https://github.com/leejianyang/leetcode/blob/master/Algorithms/088-merge_sorted_array.md)
+- [283 - Move Zeros](https://github.com/leejianyang/leetcode/blob/master/Algorithms/283-move_zeros.md)
 - [986 - Interval List Intersections](https://github.com/leejianyang/leetcode/blob/master/Algorithms/986-interval_list_intersections.md)
 
 ### 滑动窗口
