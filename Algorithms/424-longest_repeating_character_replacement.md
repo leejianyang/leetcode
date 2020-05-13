@@ -62,21 +62,21 @@ class Solution(object):
             letter_frequency.setdefault(s[right], 0)
             letter_frequency[s[right]] += 1
 
-						# 找出窗口内出现次数最多的字母的频次
+            # 找出窗口内出现次数最多的字母的频次
             max_letter_count = 0
             for letter, v in letter_frequency.iteritems():
                 max_letter_count = max(max_letter_count, v)
 
-						# 当前窗口内，除了出现频次最多的字母外，把其余的字母进行替换后，是否符合要求
+            # 当前窗口内，除了出现频次最多的字母外，把其余的字母进行替换后，是否符合要求
             if ((right - left + 1) - max_letter_count) > k:
-            		# 若不符合要求，窗口在左侧收缩
+                # 若不符合要求，窗口在左侧收缩
                 letter_frequency[s[left]] -= 1
                 left += 1
             else:
-            		# 若符合要求，看看当前窗口的是否目前找到的最长子串
+                # 若符合要求，看看当前窗口的是否目前找到的最长子串
                 max_length = max(max_length, right - left + 1)
 						
-						# 窗口向右扩大
+            # 窗口向右扩大
             right += 1
 
         return max_length
