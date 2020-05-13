@@ -60,11 +60,13 @@
 - [75 - Sort Colors](https://github.com/leejianyang/leetcode/blob/master/Algorithms/075-sort_colors.md)
 - [88 - Merge Sorted Array](https://github.com/leejianyang/leetcode/blob/master/Algorithms/088-merge_sorted_array.md)
 - [283 - Move Zeros](https://github.com/leejianyang/leetcode/blob/master/Algorithms/283-move_zeros.md)
+- [424 - Longest Repeating Character Replacement](https://github.com/leejianyang/leetcode/blob/master/Algorithms/424-longest_repeating_character_replacement.md)
 - [986 - Interval List Intersections](https://github.com/leejianyang/leetcode/blob/master/Algorithms/986-interval_list_intersections.md)
 
 ### 滑动窗口
 - [03 - Longest Substring Without Repeating Characters](https://github.com/leejianyang/leetcode/blob/master/Algorithms/003-longest_substring_without_repeating_characters.md)
 - [239 - Sliding Window Maximum](https://github.com/leejianyang/leetcode/blob/master/Algorithms/239-sliding_window_maximum.md)
+- [424 - Longest Repeating Character Replacement](https://github.com/leejianyang/leetcode/blob/master/Algorithms/424-longest_repeating_character_replacement.md)
 
 ### 递归
 - [687 - Longest Univalue Path](https://github.com/leejianyang/leetcode/blob/master/Algorithms/687-longest_univalue_path.md)
