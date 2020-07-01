@@ -39,6 +39,7 @@
 
 ### 树
 - [687 - Longest Univalue Path](https://github.com/leejianyang/leetcode/blob/master/Algorithms/687-longest_univalue_path.md)
+- [993 - Cousins in Binary Tree](https://github.com/leejianyang/leetcode/blob/master/Algorithms/993-cousins_in_binary_tree.md)
 
 ### Trie
 - [212 - World Search II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/212-world_search_ii.md)
@@ -99,9 +100,11 @@
 ### 深度优先搜索
 - [207 - Course Schedule](https://github.com/leejianyang/leetcode/blob/master/Algorithms/207-course_schedule.md)
 - [785 - Is Graph Bipartite?](https://github.com/leejianyang/leetcode/blob/master/Algorithms/785-is_graph_bipartite.md)
+- [993 - Cousins in Binary Tree](https://github.com/leejianyang/leetcode/blob/master/Algorithms/993-cousins_in_binary_tree.md)
 
 ### 广度优先搜索
 - [785 - Is Graph Bipartite?](https://github.com/leejianyang/leetcode/blob/master/Algorithms/785-is_graph_bipartite.md)
+- [993 - Cousins in Binary Tree](https://github.com/leejianyang/leetcode/blob/master/Algorithms/993-cousins_in_binary_tree.md)
 
 ### 贪心算法
 - [1094 - Car Pooling](https://github.com/leejianyang/leetcode/blob/master/Algorithms/1094-car_pooling.md)
