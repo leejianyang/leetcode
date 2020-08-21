@@ -13,6 +13,7 @@
 ### 哈希表
 - [01 - Two Sum](https://github.com/leejianyang/leetcode/blob/master/Algorithms/001-two_sum.md)
 - [03 - Longest Substring Without Repeating Characters](https://github.com/leejianyang/leetcode/blob/master/Algorithms/003-longest_substring_without_repeating_characters.md)
+- [205 - Isomorphic Strings](https://github.com/leejianyang/leetcode/blob/master/Algorithms/205-isomorphic_strings.md)
 
 ### 链表
 - [02 - Add Two Numbers](https://github.com/leejianyang/leetcode/blob/master/Algorithms/002-add_two_numbers.md)
