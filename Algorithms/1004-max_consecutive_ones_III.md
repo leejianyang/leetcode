@@ -1,7 +1,7 @@
 # 1004. Max Consecutive Ones III
 
-完成时间：2020-08-01
-原题地址：https://leetcode.com/problems/max-consecutive-ones-iii/
+- 完成时间：2020-08-01
+- 原题地址：https://leetcode.com/problems/max-consecutive-ones-iii/
 
 ## 原题描述
 
