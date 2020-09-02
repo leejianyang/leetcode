@@ -70,6 +70,7 @@
 - [03 - Longest Substring Without Repeating Characters](https://github.com/leejianyang/leetcode/blob/master/Algorithms/003-longest_substring_without_repeating_characters.md)
 - [239 - Sliding Window Maximum](https://github.com/leejianyang/leetcode/blob/master/Algorithms/239-sliding_window_maximum.md)
 - [424 - Longest Repeating Character Replacement](https://github.com/leejianyang/leetcode/blob/master/Algorithms/424-longest_repeating_character_replacement.md)
+- [567 - Permutation in String](https://github.com/leejianyang/leetcode/blob/master/Algorithms/567-permutation_in_string.md)
 - [1004 - Max Consecutive Ones III](https://github.com/leejianyang/leetcode/blob/master/Algorithms/1004-max_consecutive_ones_III.md)
 
 ### 递归
