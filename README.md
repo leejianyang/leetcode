@@ -103,6 +103,7 @@
 - [09 - Palindrome Number](https://github.com/leejianyang/leetcode/blob/master/Algorithms/009-palindrome_number.md)
 
 ### 深度优先搜索
+- [112 - Path Sum](https://github.com/leejianyang/leetcode/blob/master/Algorithms/112-path_sum.md)
 - [207 - Course Schedule](https://github.com/leejianyang/leetcode/blob/master/Algorithms/207-course_schedule.md)
 - [785 - Is Graph Bipartite?](https://github.com/leejianyang/leetcode/blob/master/Algorithms/785-is_graph_bipartite.md)
 - [993 - Cousins in Binary Tree](https://github.com/leejianyang/leetcode/blob/master/Algorithms/993-cousins_in_binary_tree.md)
