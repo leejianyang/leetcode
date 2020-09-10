@@ -105,6 +105,7 @@
 ### 深度优先搜索
 - [112 - Path Sum](https://github.com/leejianyang/leetcode/blob/master/Algorithms/112-path_sum.md)
 - [113 - Path Sum II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/113-path_sum_ii.md)
+- [124 - Binary Tree Maximum Path Sum](https://github.com/leejianyang/leetcode/blob/master/Algorithms/124-binary_tree_maximum_path_sum.md)
 - [129 - Sum Root to Leaf Numbers](https://github.com/leejianyang/leetcode/blob/master/Algorithms/129-sum_root_to_leaf_numbers.md)
 - [207 - Course Schedule](https://github.com/leejianyang/leetcode/blob/master/Algorithms/207-course_schedule.md)
 - [785 - Is Graph Bipartite?](https://github.com/leejianyang/leetcode/blob/master/Algorithms/785-is_graph_bipartite.md)
