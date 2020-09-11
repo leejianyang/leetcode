@@ -21,6 +21,8 @@
 - [24 - Swap Nodes in Pairs](https://github.com/leejianyang/leetcode/blob/master/Algorithms/024-swap_nodes_in_pairs.md)
 - [25 - Reverse Nodes in k-Group](https://github.com/leejianyang/leetcode/blob/master/Algorithms/025-reverse_nodes_in_k_group.md)
 - [82 - Remove Duplicates from Sorted List II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/082-remove_duplicates_from_sorted_list_II.md)
+- [141 - Linked List Cycle](https://github.com/leejianyang/leetcode/blob/master/Algorithms/141-linked_list_cycle.md)
+- [142 - Linked List Cycle II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/142-linked_list_cycle_II.md)
 - [143 - Reorder List](https://github.com/leejianyang/leetcode/blob/master/Algorithms/143-reorder_list.md)
 - [148 - Sort List](https://github.com/leejianyang/leetcode/blob/master/Algorithms/148-sort_list.md)
 
@@ -63,6 +65,7 @@
 - [75 - Sort Colors](https://github.com/leejianyang/leetcode/blob/master/Algorithms/075-sort_colors.md)
 - [88 - Merge Sorted Array](https://github.com/leejianyang/leetcode/blob/master/Algorithms/088-merge_sorted_array.md)
 - [141 - Linked List Cycle](https://github.com/leejianyang/leetcode/blob/master/Algorithms/141-linked_list_cycle.md)
+- [142 - Linked List Cycle II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/142-linked_list_cycle_II.md)
 - [283 - Move Zeros](https://github.com/leejianyang/leetcode/blob/master/Algorithms/283-move_zeros.md)
 - [424 - Longest Repeating Character Replacement](https://github.com/leejianyang/leetcode/blob/master/Algorithms/424-longest_repeating_character_replacement.md)
 - [986 - Interval List Intersections](https://github.com/leejianyang/leetcode/blob/master/Algorithms/986-interval_list_intersections.md)
