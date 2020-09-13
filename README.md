@@ -5,6 +5,8 @@
 ### 数组
 - [01 - Two Sum](https://github.com/leejianyang/leetcode/blob/master/Algorithms/001-two_sum.md)
 - [41 - First Missing Positive ](https://github.com/leejianyang/leetcode/blob/master/Algorithms/041-first_missing_positive.md)
+- [56 - Merge Intervals](https://github.com/leejianyang/leetcode/blob/master/Algorithms/056-merge_intervals.md)
+- [57 - Insert Interval](https://github.com/leejianyang/leetcode/blob/master/Algorithms/057-insert_interval.md)
 - [75 - Sort Colors](https://github.com/leejianyang/leetcode/blob/master/Algorithms/075-sort_colors.md)
 - [88 - Merge Sorted Array](https://github.com/leejianyang/leetcode/blob/master/Algorithms/088-merge_sorted_array.md)
 - [283 - Move Zeros](https://github.com/leejianyang/leetcode/blob/master/Algorithms/283-move_zeros.md)
