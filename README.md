@@ -9,6 +9,7 @@
 - [57 - Insert Interval](https://github.com/leejianyang/leetcode/blob/master/Algorithms/057-insert_interval.md)
 - [75 - Sort Colors](https://github.com/leejianyang/leetcode/blob/master/Algorithms/075-sort_colors.md)
 - [88 - Merge Sorted Array](https://github.com/leejianyang/leetcode/blob/master/Algorithms/088-merge_sorted_array.md)
+- [268 - Missing Number](https://github.com/leejianyang/leetcode/blob/master/Algorithms/268-missing_number.md)
 - [283 - Move Zeros](https://github.com/leejianyang/leetcode/blob/master/Algorithms/283-move_zeros.md)
 - [922 - Sort Array By Parity II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/922-sort_array_by_parity_II.md)
 
