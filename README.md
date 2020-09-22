@@ -97,6 +97,7 @@
 ### 回溯
 - [15 - Letter Combinations of a Phone Number](https://github.com/leejianyang/leetcode/blob/master/Algorithms/017-letter_combinations_of_a_phone_number.md)
 - [46 - Permutations](https://github.com/leejianyang/leetcode/blob/master/Algorithms/046-permutations.md)
+- [78 - Subsets](https://github.com/leejianyang/leetcode/blob/master/Algorithms/078-subsets.md)
 - [212- World Search II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/212-world_search_ii.md)
 
 ### 动态规划
@@ -144,3 +145,6 @@
 ### 翻转链表
 - [92 - Reverse Linked List II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/092-reverse_linked_list_II.md)
 - [206 - Reverse Linked List](https://github.com/leejianyang/leetcode/blob/master/Algorithms/206-reverse_linked_list.md)
+
+### Subsets
+- [78 - Subsets](https://github.com/leejianyang/leetcode/blob/master/Algorithms/078-subsets.md)
