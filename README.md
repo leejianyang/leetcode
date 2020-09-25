@@ -115,6 +115,7 @@
 
 ### 二分查找
 - [230 - Kth Smallest Element in a BST](https://github.com/leejianyang/leetcode/blob/master/Algorithms/230-kth_smallest_element_in_a_bst.md)
+- [1011 - Capacity To Ship Packages Within D Days](https://github.com/leejianyang/leetcode/blob/master/Algorithms/1011-capacity_to_ship_packages_within_d_days.md)
 
 ### 数学
 - [02 - Add Two Numbers](https://github.com/leejianyang/leetcode/blob/master/Algorithms/002-add_two_numbers.md)
