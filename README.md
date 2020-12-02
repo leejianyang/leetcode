@@ -4,6 +4,7 @@
 
 ### 数组
 - [01 - Two Sum](https://github.com/leejianyang/leetcode/blob/master/Algorithms/001-two_sum.md)
+- [15 - 3Sum](https://github.com/leejianyang/leetcode/blob/master/Algorithms/015-3sum.md)
 - [41 - First Missing Positive ](https://github.com/leejianyang/leetcode/blob/master/Algorithms/041-first_missing_positive.md)
 - [56 - Merge Intervals](https://github.com/leejianyang/leetcode/blob/master/Algorithms/056-merge_intervals.md)
 - [57 - Insert Interval](https://github.com/leejianyang/leetcode/blob/master/Algorithms/057-insert_interval.md)
@@ -71,6 +72,7 @@
 
 ### Two Points
 - [03 - Longest Substring Without Repeating Characters](https://github.com/leejianyang/leetcode/blob/master/Algorithms/003-longest_substring_without_repeating_characters.md)
+- [15 - 3Sum](https://github.com/leejianyang/leetcode/blob/master/Algorithms/015-3sum.md)
 - [19 - Remove Nth Node From End of List](https://github.com/leejianyang/leetcode/blob/master/Algorithms/019-remove_nth_node_from_end_of_list.md)
 - [75 - Sort Colors](https://github.com/leejianyang/leetcode/blob/master/Algorithms/075-sort_colors.md)
 - [88 - Merge Sorted Array](https://github.com/leejianyang/leetcode/blob/master/Algorithms/088-merge_sorted_array.md)
