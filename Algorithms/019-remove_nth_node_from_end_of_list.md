@@ -40,11 +40,11 @@ class Solution(object):
         """
         point_list = []
         current_node = head
-        
+
         while current_node is not None:
             point_list.append(current_node)
             current_node = current_node.next
-        
+
         remove_index = len(point_list) - n
         if remove_index == 0:
             # 要去掉的是头节点
@@ -69,3 +69,50 @@ class Solution(object):
 我的解法虽然也是一次遍历链表，但是额外使用的指针较多。官方给出的「One pass algorithm」只需要使用2个额外的指针。
 
 将指针 1 和指针 2 的间距设置为 n+2，若指针 1 到达链表末端时，指针 2 指向的就是要移除的节点的上一个节点。
+
+## 更优的解决方案
+
+大半年过后的今天（2020-12-07），实践一下双指针（一块一慢）的解决方案：
+```php
+/**
+ * Definition for a singly-linked list.
+ * class ListNode {
+ *     public $val = 0;
+ *     public $next = null;
+ *     function __construct($val = 0, $next = null) {
+ *         $this->val = $val;
+ *         $this->next = $next;
+ *     }
+ * }
+ */
+class Solution {
+
+    /**
+     * @param ListNode $head
+     * @param Integer $n
+     * @return ListNode
+     */
+    function removeNthFromEnd($head, $n) {
+        $slow = $head;
+        $dummy = null;
+        $fast = $slow;
+        for ($i = 0; $i < $n; $i++) {
+            $fast = $fast->next;
+        }
+
+        while ($fast) {
+            $dummy = $slow;
+            $slow = $slow->next;
+            $fast = $fast->next;
+        }
+
+        if ($dummy) {
+            $dummy->next = $slow->next;
+        } else {
+            $head = $slow->next;
+        }
+
+        return $head;
+    }
+}
+```
