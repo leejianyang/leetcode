@@ -41,6 +41,7 @@
 
 ### 栈
 - [20 - Valid Parentheses](https://github.com/leejianyang/leetcode/blob/master/Algorithms/020-valid_parentheses.md)
+- [739 - Daily Temperatures](https://github.com/leejianyang/leetcode/blob/master/Algorithms/739-daily_temperatures.md)
 
 ### 队列
 
