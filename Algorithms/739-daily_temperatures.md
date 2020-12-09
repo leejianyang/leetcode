@@ -1,7 +1,7 @@
 # 739. Daily Temperatures
 
-完成时间：2020-12-09
-原题地址：https://leetcode.com/problems/daily-temperatures/
+- 完成时间：2020-12-09
+- 原题地址：https://leetcode.com/problems/daily-temperatures/
 
 ## 题目描述
 
