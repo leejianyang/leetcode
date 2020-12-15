@@ -56,6 +56,7 @@
 
 ### 树
 - [102 - Binary Tree Level Order Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/102-binary_tree_level_order_traversal.md)
+- [144 - Binary Tree Preorder Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/144-binary_tree_preorder_traversal.md)
 - [687 - Longest Univalue Path](https://github.com/leejianyang/leetcode/blob/master/Algorithms/687-longest_univalue_path.md)
 - [993 - Cousins in Binary Tree](https://github.com/leejianyang/leetcode/blob/master/Algorithms/993-cousins_in_binary_tree.md)
 
@@ -98,6 +99,7 @@
 
 ### 递归
 - [17 - Letter Combinations of a Phone Number](https://github.com/leejianyang/leetcode/blob/master/Algorithms/017-letter_combinations_of_a_phone_number.md)
+- [144 - Binary Tree Preorder Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/144-binary_tree_preorder_traversal.md)
 - [687 - Longest Univalue Path](https://github.com/leejianyang/leetcode/blob/master/Algorithms/687-longest_univalue_path.md)
 
 ### 回溯
