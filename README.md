@@ -55,21 +55,21 @@
 - [20 - Valid Parentheses](https://github.com/leejianyang/leetcode/blob/master/Algorithms/020-valid_parentheses.md)
 
 ### 树
-- [94. Binary Tree Inorder Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/094-binary_tree_inorder_traversal.md)
+- [94 - Binary Tree Inorder Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/094-binary_tree_inorder_traversal.md)
 - [102 - Binary Tree Level Order Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/102-binary_tree_level_order_traversal.md)
 - [144 - Binary Tree Preorder Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/144-binary_tree_preorder_traversal.md)
-- [145. Binary Tree Postorder Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/145-binary_tree_postorder_traversal.md)
-- [226. Invert Binary Tree](https://github.com/leejianyang/leetcode/blob/master/Algorithms/226-invert_binary_tree.md)
+- [145 - Binary Tree Postorder Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/145-binary_tree_postorder_traversal.md)
+- [226 - Invert Binary Tree](https://github.com/leejianyang/leetcode/blob/master/Algorithms/226-invert_binary_tree.md)
 - [687 - Longest Univalue Path](https://github.com/leejianyang/leetcode/blob/master/Algorithms/687-longest_univalue_path.md)
 - [993 - Cousins in Binary Tree](https://github.com/leejianyang/leetcode/blob/master/Algorithms/993-cousins_in_binary_tree.md)
 
 ### Trie
 - [212 - World Search II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/212-world_search_ii.md)
-- [692 -  Top K Frequent Words](https://github.com/leejianyang/leetcode/blob/master/Algorithms/692-top_k_frequent_words.md)
+- [692 - Top K Frequent Words](https://github.com/leejianyang/leetcode/blob/master/Algorithms/692-top_k_frequent_words.md)
 
 ### BST
 - [230 - Kth Smallest Element in a BST](https://github.com/leejianyang/leetcode/blob/master/Algorithms/230-kth_smallest_element_in_a_bst.md)
-- [315 -  Count of Smaller Numbers After Self](https://github.com/leejianyang/leetcode/blob/master/Algorithms/315-count_of_smaller_numbers_after_self.md)
+- [315 - Count of Smaller Numbers After Self](https://github.com/leejianyang/leetcode/blob/master/Algorithms/315-count_of_smaller_numbers_after_self.md)
 
 ### 图
 - [207 - Course Schedule](https://github.com/leejianyang/leetcode/blob/master/Algorithms/207-course_schedule.md)
@@ -119,7 +119,7 @@
 - [75 - Sort Colors](https://github.com/leejianyang/leetcode/blob/master/Algorithms/075-sort_colors.md)
 - [148 - Sort List](https://github.com/leejianyang/leetcode/blob/master/Algorithms/148-sort_list.md)
 - [179 - Largest Number](https://github.com/leejianyang/leetcode/blob/master/Algorithms/179-largest_number.md)
-- [692 -  Top K Frequent Words](https://github.com/leejianyang/leetcode/blob/master/Algorithms/692-top_k_frequent_words.md)
+- [692 - Top K Frequent Words](https://github.com/leejianyang/leetcode/blob/master/Algorithms/692-top_k_frequent_words.md)
 - [922 - Sort Array By Parity II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/922-sort_array_by_parity_II.md)
 
 ### 拓扑排序
