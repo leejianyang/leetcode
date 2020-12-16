@@ -55,6 +55,7 @@
 - [20 - Valid Parentheses](https://github.com/leejianyang/leetcode/blob/master/Algorithms/020-valid_parentheses.md)
 
 ### 树
+- [94. Binary Tree Inorder Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/094-binary_tree_inorder_traversal.md)
 - [102 - Binary Tree Level Order Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/102-binary_tree_level_order_traversal.md)
 - [144 - Binary Tree Preorder Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/144-binary_tree_preorder_traversal.md)
 - [145. Binary Tree Postorder Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/145-binary_tree_postorder_traversal.md)
