@@ -56,6 +56,7 @@
 
 ### 树
 - [94 - Binary Tree Inorder Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/094-binary_tree_inorder_traversal.md)
+- [98 - Validate Binary Search Tree](https://github.com/leejianyang/leetcode/blob/master/Algorithms/098-validate_binary_search_tree.md)
 - [102 - Binary Tree Level Order Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/102-binary_tree_level_order_traversal.md)
 - [144 - Binary Tree Preorder Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/144-binary_tree_preorder_traversal.md)
 - [145 - Binary Tree Postorder Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/145-binary_tree_postorder_traversal.md)
@@ -136,6 +137,7 @@
 
 ### 深度优先搜索
 - [17 - Letter Combinations of a Phone Number](https://github.com/leejianyang/leetcode/blob/master/Algorithms/017-letter_combinations_of_a_phone_number.md)
+- [98 - Validate Binary Search Tree](https://github.com/leejianyang/leetcode/blob/master/Algorithms/098-validate_binary_search_tree.md)
 - [112 - Path Sum](https://github.com/leejianyang/leetcode/blob/master/Algorithms/112-path_sum.md)
 - [113 - Path Sum II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/113-path_sum_ii.md)
 - [124 - Binary Tree Maximum Path Sum](https://github.com/leejianyang/leetcode/blob/master/Algorithms/124-binary_tree_maximum_path_sum.md)
