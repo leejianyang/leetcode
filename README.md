@@ -58,6 +58,7 @@
 - [94 - Binary Tree Inorder Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/094-binary_tree_inorder_traversal.md)
 - [98 - Validate Binary Search Tree](https://github.com/leejianyang/leetcode/blob/master/Algorithms/098-validate_binary_search_tree.md)
 - [102 - Binary Tree Level Order Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/102-binary_tree_level_order_traversal.md)
+- [108. Convert Sorted Array to Binary Search Tree](https://github.com/leejianyang/leetcode/blob/master/Algorithms/108-convert_sorted_array_to_binary_search_tree.md)
 - [144 - Binary Tree Preorder Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/144-binary_tree_preorder_traversal.md)
 - [145 - Binary Tree Postorder Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/145-binary_tree_postorder_traversal.md)
 - [226 - Invert Binary Tree](https://github.com/leejianyang/leetcode/blob/master/Algorithms/226-invert_binary_tree.md)
