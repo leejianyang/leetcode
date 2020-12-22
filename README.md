@@ -17,6 +17,7 @@
 ### 哈希表
 - [01 - Two Sum](https://github.com/leejianyang/leetcode/blob/master/Algorithms/001-two_sum.md)
 - [03 - Longest Substring Without Repeating Characters](https://github.com/leejianyang/leetcode/blob/master/Algorithms/003-longest_substring_without_repeating_characters.md)
+- [138 - Copy List with Random Pointer](https://github.com/leejianyang/leetcode/blob/master/Algorithms/138-copy_list_with_random_pointer.md)
 - [205 - Isomorphic Strings](https://github.com/leejianyang/leetcode/blob/master/Algorithms/205-isomorphic_strings.md)
 
 ### 链表
@@ -28,6 +29,7 @@
 - [82 - Remove Duplicates from Sorted List II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/082-remove_duplicates_from_sorted_list_II.md)
 - [83 - Remove Duplicates from Sorted List](https://github.com/leejianyang/leetcode/blob/master/Algorithms/083-remove_duplicates_from_sorted_list.md)
 - [92 - Reverse Linked List II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/092-reverse_linked_list_II.md)
+- [138 - Copy List with Random Pointer](https://github.com/leejianyang/leetcode/blob/master/Algorithms/138-copy_list_with_random_pointer.md)
 - [141 - Linked List Cycle](https://github.com/leejianyang/leetcode/blob/master/Algorithms/141-linked_list_cycle.md)
 - [142 - Linked List Cycle II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/142-linked_list_cycle_II.md)
 - [143 - Reorder List](https://github.com/leejianyang/leetcode/blob/master/Algorithms/143-reorder_list.md)
