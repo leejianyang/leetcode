@@ -67,6 +67,7 @@
 - [144 - Binary Tree Preorder Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/144-binary_tree_preorder_traversal.md)
 - [145 - Binary Tree Postorder Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/145-binary_tree_postorder_traversal.md)
 - [226 - Invert Binary Tree](https://github.com/leejianyang/leetcode/blob/master/Algorithms/226-invert_binary_tree.md)
+- [236 - Lowest Common Ancestor of a Binary Tree](https://github.com/leejianyang/leetcode/blob/master/Algorithms/236-lowest_common_ancestor_of_a_binary_tree.md)
 - [687 - Longest Univalue Path](https://github.com/leejianyang/leetcode/blob/master/Algorithms/687-longest_univalue_path.md)
 - [993 - Cousins in Binary Tree](https://github.com/leejianyang/leetcode/blob/master/Algorithms/993-cousins_in_binary_tree.md)
 
