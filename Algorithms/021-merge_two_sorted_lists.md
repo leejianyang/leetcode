@@ -88,3 +88,57 @@ class Solution {
     }
 }
 ```
+
+## go 语言版本
+```go
+/**
+ * Definition for singly-linked list.
+ * type ListNode struct {
+ *     Val int
+ *     Next *ListNode
+ * }
+ */
+func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
+    var head *ListNode
+    var tail *ListNode
+    var current *ListNode
+
+    for l1 != nil && l2 != nil {
+        if l1.Val < l2.Val {
+            current = l1
+            l1 = current.Next
+        } else {
+            current = l2
+            l2 = current.Next
+        }
+
+        if head == nil {
+            head = current
+            tail = current
+        } else {
+            tail.Next = current
+            tail = tail.Next
+        }
+
+        tail.Next = nil;
+    }
+
+    if l1 != nil {
+        if head == nil {
+            head = l1
+        } else {
+            tail.Next = l1
+        }
+    }
+
+    if l2 != nil {
+        if head == nil {
+            head = l2
+        } else {
+            tail.Next = l2    
+        }
+    }
+
+    return head
+}
+```

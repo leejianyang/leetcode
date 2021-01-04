@@ -39,10 +39,10 @@ class Solution(object):
             return ""
         if len(strs) == 1:
             return strs[0]
-        
+
         common_prefix = strs[0]
         prefix_len = len(strs[0])
-        
+
         for str in strs[1:]:
             current_len = 0
             for letter in str[0:prefix_len]:
@@ -78,7 +78,7 @@ class Solution {
         if (empty($strs)) {
             return '';
         }
-        
+
         for ($i = 0; $i < strlen($strs[0]); $i++) {
             for ($j = 1; $j < count($strs); $j++) {
                 if ($strs[$j][$i] !== $strs[0][$i]) {
@@ -86,7 +86,7 @@ class Solution {
                 }
             }    
         }
-        
+
         return substr($strs[0], 0, $i);
     }
 }
@@ -102,24 +102,24 @@ class Solution(object):
         :rtype: str
         """
         size = len(strs)
-        
+
         if size == 0:
             return ''
         if size == 1:
             return strs[0]
-        
+
         return self.divide(strs, 0, size-1)
-        
-    
+
+
     def divide(self, strs, i, j):
         if i == j:
             return strs[i]
-        
+
         mid = (i + j) / 2
         left_prefix = self.divide(strs, i, mid)
         right_prefix = self.divide(strs, mid+1, j)
         return self.compairTwoString(left_prefix, right_prefix)
-    
+
     def compairTwoString(self, str1, str2):
         length = min(len(str1), len(str2))
         for i in xrange(length):
@@ -127,4 +127,23 @@ class Solution(object):
             if str1[i] != str2[i]:
                 return str1[0:i]
         return str1[0:length]
+```
+
+### go 语言的版本
+```go
+func longestCommonPrefix(strs []string) string {
+    if len(strs) == 0 {
+        return ""
+    }
+        
+    for i := 0; i < len(strs[0]); i++ {
+        for j := 1; j < len(strs); j++ {
+            if i >= len(strs[j]) || strs[j][i:i+1] != strs[0][i:i+1] {
+                return strs[0][0:i]
+            }
+        }
+    }
+
+    return strs[0]
+}
 ```

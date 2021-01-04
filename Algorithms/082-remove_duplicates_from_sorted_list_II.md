@@ -137,3 +137,48 @@ class Solution {
     }
 }
 ```
+
+### go 语言版本
+```go
+/**
+ * Definition for singly-linked list.
+ * type ListNode struct {
+ *     Val int
+ *     Next *ListNode
+ * }
+ */
+func deleteDuplicates(head *ListNode) *ListNode {
+    var newHead, tail *ListNode
+    dummy := head
+
+    for dummy != nil {
+        flag := 0
+        current := dummy.Next
+
+        for current != nil {
+            if current.Val == dummy.Val {
+                flag = 1
+                current = current.Next
+            } else {
+                break
+            }
+        }
+
+        if flag == 0 {
+            if newHead == nil {
+                newHead = dummy
+                tail = dummy
+                tail.Next = nil
+            } else {
+                tail.Next = dummy
+                tail = tail.Next
+                tail.Next = nil
+            }
+        }
+
+        dummy = current
+    }
+
+    return newHead
+}
+```

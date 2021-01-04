@@ -91,3 +91,32 @@ class Solution(object):
         head.next = None
         return node
 ```
+
+### go 语言版本
+```go
+/**
+ * Definition for singly-linked list.
+ * type ListNode struct {
+ *     Val int
+ *     Next *ListNode
+ * }
+ */
+func reverseList(head *ListNode) *ListNode {
+    if head == nil {
+        return nil
+    }
+
+    head, tail := reverse(head)
+    tail.Next = nil
+    return head
+}
+
+func reverse(node *ListNode) (*ListNode, *ListNode) {
+    if node.Next == nil {
+        return node, node
+    }
+    head, tail := reverse(node.Next)
+    tail.Next = node
+    return head, node
+}
+```

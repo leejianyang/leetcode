@@ -116,3 +116,37 @@ class Solution {
     }
 }
 ```
+
+## go 语言版本
+```go
+/**
+ * Definition for singly-linked list.
+ * type ListNode struct {
+ *     Val int
+ *     Next *ListNode
+ * }
+ */
+func removeNthFromEnd(head *ListNode, n int) *ListNode {
+    slow := head
+    fast := head
+    var dummy *ListNode
+
+    for i := 0; i < n; i++ {
+        fast = fast.Next
+    }
+
+    for fast != nil {
+        dummy = slow
+        slow = slow.Next
+        fast = fast.Next
+    }
+
+    if dummy != nil {
+        dummy.Next = slow.Next
+    } else {
+        head = slow.Next
+    }
+
+    return head
+}
+```
