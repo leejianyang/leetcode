@@ -35,11 +35,11 @@ class Solution(object):
                 input_dict[item] = [input_dict[item], index]
             else:
                 input_dict[item] = index
-        
+
         for index, item in enumerate(nums):
             another_one = target - item
             if (another_one == item):
-                if isinstance(input_dict[item], list): 
+                if isinstance(input_dict[item], list):
                     return input_dict[item]
                 continue
             another_one_index = input_dict.get(another_one)
@@ -73,11 +73,27 @@ class Solution(object):
         :rtype: List[int]
         """
         complement_dict = {}
-        
+
         for index, num in enumerate(nums):
             complement = target - num
             if (complement_dict.get(complement) is not None):
                 return [complement_dict.get(complement), index]
             else:
                 complement_dict[num] = index
+```
+
+## Go语言版本
+```go
+func twoSum(nums []int, target int) []int {
+    m := make(map[int]int)
+
+    for i := 0; i < len(nums); i++ {
+        if _, ok := m[target-nums[i]]; ok {
+            return []int{i, m[target-nums[i]]}
+        }
+        m[nums[i]] = i
+    }
+
+    return []int{}
+}
 ```
