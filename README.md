@@ -20,6 +20,7 @@
 - [138 - Copy List with Random Pointer](https://github.com/leejianyang/leetcode/blob/master/Algorithms/138-copy_list_with_random_pointer.md)
 - [205 - Isomorphic Strings](https://github.com/leejianyang/leetcode/blob/master/Algorithms/205-isomorphic_strings.md)
 - [350 - Intersection of Two Arrays II](https://github.com/leejianyang/leetcode/blob/master/Algorithms/350-intersection_of_two_arrays_II.md)
+- [387 - First Unique Character in a String](https://github.com/leejianyang/leetcode/blob/master/Algorithms/387-first_unique_character_in_a_string.md)
 
 ### 链表
 - [02 - Add Two Numbers](https://github.com/leejianyang/leetcode/blob/master/Algorithms/002-add_two_numbers.md)
@@ -58,6 +59,7 @@
 - [14 - Longest Common Prefix](https://github.com/leejianyang/leetcode/blob/master/Algorithms/014-longest_common_prefix.md)
 - [15 - Letter Combinations of a Phone Number](https://github.com/leejianyang/leetcode/blob/master/Algorithms/017-letter_combinations_of_a_phone_number.md)
 - [20 - Valid Parentheses](https://github.com/leejianyang/leetcode/blob/master/Algorithms/020-valid_parentheses.md)
+- [387 - First Unique Character in a String](https://github.com/leejianyang/leetcode/blob/master/Algorithms/387-first_unique_character_in_a_string.md)
 
 ### 树
 - [94 - Binary Tree Inorder Traversal](https://github.com/leejianyang/leetcode/blob/master/Algorithms/094-binary_tree_inorder_traversal.md)
